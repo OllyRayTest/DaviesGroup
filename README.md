@@ -28,5 +28,5 @@ Other Notes
 ___________
 1) To adopt a more TDD approach I'd have liked to look into API calls and web services using ReadyAPI or Postman
 2) I'd have also looked to implement some concurrent user session testing using JMeter
-My original approach was in C# Selenium however I feel TestComplete can be more intuitive
-I've avoided using BDD techniques however am comfortable with the methodology and have utilised Cucumber/SpecFlow in the past. 
+3) My original approach was in C# Selenium however I feel TestComplete can be more intuitive
+4) I've avoided using BDD techniques however am comfortable with the methodology and have utilised Cucumber/SpecFlow in the past. 
