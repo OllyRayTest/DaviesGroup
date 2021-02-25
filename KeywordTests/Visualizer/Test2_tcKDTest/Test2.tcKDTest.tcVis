@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{210FE14E-3DDD-4501-A247-0E246B779012}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44252.6840856481" objectName="Aliases.browser.pageDaviesGroupHome.header.navMainMenu.link2" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi69175578138161.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44252.6841898148" objectName="Aliases.browser.pageDaviesGroupComAboutUs.headerHeaderWrap.link" objectLeft="917" objectTop="329" objectRight="986" objectBottom="352" clickPointX="947" clickPointY="345" imageFileName="tcvi69184421138162.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44252.6842592593" objectName="Aliases.browser.pageDaviesGroupComAboutUs.panelMarker011" objectLeft="837" objectTop="735" objectRight="855" objectBottom="753" clickPointX="840" clickPointY="742" imageFileName="tcvi69191375138164.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

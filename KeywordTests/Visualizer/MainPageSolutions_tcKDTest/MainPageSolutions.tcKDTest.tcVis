@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{AF9F05CE-4DF7-4AB4-B436-AE2DF8FA65DA}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="44252.7792592593" objectName="Aliases.browser.pageDaviesGroupHome.header.navMainMenu.linkSolutions" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi77398281152360.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44252.7795486111" objectName="Aliases.browser.pageDaviesGroupSolutions.section2.textnode" objectLeft="885" objectTop="699" objectRight="1047" objectBottom="739" clickPointX="957" clickPointY="720" imageFileName="tcvi77423812152363.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44252.7795833333" objectName="Aliases.browser.pageDaviesGroupSolutions.section.textnodeSelect2Container" objectLeft="573" objectTop="442" objectRight="1371" objectBottom="470" clickPointX="754" clickPointY="444" imageFileName="tcvi77427218152365.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44252.7796064815" objectName="Aliases.browser.pageDaviesGroupSolutions.searchbox" objectLeft="537" objectTop="485" objectRight="1367" objectBottom="528" clickPointX="-1921" clickPointY="-1" imageFileName="tcvi77428656152366.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="44252.7796643519" objectName="Aliases.browser.pageDaviesGroupSolutions.searchbox" objectLeft="537" objectTop="485" objectRight="1367" objectBottom="528" clickPointX="-1921" clickPointY="-1" imageFileName="tcvi774286561523661.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

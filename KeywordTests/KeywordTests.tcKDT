@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="MainPageTwitterLink" key="{262DA9C9-2236-48FF-862A-88C6C588A619}" path="MainPageTwitterLink.tcKDTest" />
+		<child name="MainPageLinkedInLink" key="{54ED1262-F058-43ED-BC26-503B67FD96E8}" path="MainPageLinkedInLink.tcKDTest" />
+		<child name="MainPageSolutions" key="{AF9F05CE-4DF7-4AB4-B436-AE2DF8FA65DA}" path="MainPageSolutions.tcKDTest" />
+		<child name="StokeLocationCapture" key="{42CD03D5-97B3-4396-9F98-D8A8EB5D761A}" path="StokeLocationCapture.tcKDTest" />
+		<child name="Test2" key="{210FE14E-3DDD-4501-A247-0E246B779012}" path="Test2.tcKDTest" />
+		<child name="Test3" key="{338A5A31-CD14-4138-84D5-42B5077B0459}" path="Test3.tcKDTest" />
+	</children>
+</Root>

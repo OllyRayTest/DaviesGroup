@@ -1,0 +1,8 @@
+﻿function Main()
+{
+  var address = Sys.Process("calc").FindChild("WndCaption", "Grad", 3);
+  if (btn.Exists)
+    btn.Click()
+  else
+    Log.Error("The button \"Grad\" was not found.");
+}

@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{E72C003A-118F-43DC-94A3-436AFAA4A755}">
+				<TypeInfo Item0="{70342671-9B15-4685-BAFA-DE890BAF1105}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{73E43C10-DED3-4CCB-9152-FD1168CBADD8}">
+						<TypeInfo Item0="{E4F3D674-2304-4296-91B9-7F9E6A71EF0A}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageDaviesGroupHome" Key="{134655FC-8884-4392-98A7-4C7DB50D2490}">
+								<Image FileName="-1807807023" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="footer" Key="{278463E4-4C60-4DA4-9602-79D63E0AFCC1}" ExtendedFind="True">
+										<Image FileName="-1807807023" Left="8" Top="663" Right="1911" Bottom="1048" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Footer" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="twitterLink" Key="{1AFCAB9E-96A8-4904-B124-3D818F6CEC79}" ExtendedFind="True">
+												<Image FileName="-1807807023" Left="1663" Top="786" Right="1703" Bottom="808" />
+												<TypeInfo Item0="{58F5A48C-108B-4A5F-A080-A4C4E66D35AF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="href">
+														<Value Value="https://twitter.com/Davies_Group" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="vg" Key="{23AB4F4E-2EAB-4CD9-8CC0-A1F407900583}" ExtendedFind="True">
+														<Image FileName="-1807807023" Left="1663" Top="763" Right="1703" Bottom="803" />
+														<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="SVG" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="linkedInLink" Key="{F1F2F36A-BCE5-4D4D-908C-1D1D4E0577BD}" ExtendedFind="True">
+												<Image FileName="-1732411331" Left="1713" Top="779" Right="1757" Bottom="803" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="href">
+														<Value Value="https://www.linkedin.com/company/daviesgroup/" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="vg" Key="{F46B4AC3-828E-4CBE-8BAC-7F6EEBD94432}" ExtendedFind="True">
+														<Image FileName="-1732411331" Left="1713" Top="753" Right="1757" Bottom="797" />
+														<TypeInfo Item0="{F7258329-541B-4D96-8BD7-7B5A6146E6DF}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="SVG" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="section" Key="{CB78A80A-FEA4-4DDF-9DDC-B75704DE6101}" ExtendedFind="True">
+										<Image FileName="561802962" Left="0" Top="-242" Right="1903" Bottom="585" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panel" Key="{3AC48F6C-58DA-4FEA-BF77-61152F2A4EB4}">
+										<Image FileName="668228446" Left="0" Top="103" Right="1903" Bottom="5667" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{DA7927CD-EE47-4500-9E0B-702E6A2C1760}">
+												<Image FileName="668228446" Left="0" Top="103" Right="1903" Bottom="5282" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="header" Key="{E21FB192-C8E6-4133-88EE-585BA789801E}">
+										<Image FileName="17809223" Left="8" Top="111" Right="1911" Bottom="182" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#header-wrap" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header-wrap&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="headerSubMenuAbout" Key="{B2B9FC15-8B4A-42F7-BF7D-8E47BF87EBC3}">
+												<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="vitale_sub_menu" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="headerSubMenuAbout1" Key="{0829FF60-A82D-48FA-9D7A-3F8D763906B9}">
+														<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="linkLocations" Key="{7BCEC0E4-3FB0-4827-9FC3-CC103C3B3BBD}">
+																<TypeInfo Item0="{58F5A48C-108B-4A5F-A080-A4C4E66D35AF}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Link" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="3" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="navMainMenu" Key="{B91C4872-C152-4B69-B2D9-FD139341585B}">
+										<Image FileName="17809223" Left="57" Top="116" Right="1862" Bottom="167" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#main-menu" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;Solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[@id=&apos;main-menu&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header-wrap&apos;]/div/div/div/div/nav" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAbout" Key="{3A2D2ACB-30F3-4393-AF69-4AFB6674FBAC}">
+										<Image FileName="17809223" Left="1488" Top="127" Right="1535" Bottom="167" />
+										<TypeInfo Item0="{58F5A48C-108B-4A5F-A080-A4C4E66D35AF}" />
+										<Selectors>
+											<Selector>
+												<Value Value="a[href*=&apos;davies-group.com/about-us&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[text()=&apos;About&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#menu-hero-header-menu &gt; .menu-item-18261 &gt; a" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[@id=&apos;menu-hero-header-menu&apos;]/li[2]/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;davies-group.com/about-us&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/ul/li[2]/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkSolutions" Key="{A7C1B31E-7130-40AD-85B4-210A5F3BE6DE}">
+										<Image FileName="2103066965" Left="1378" Top="127" Right="1451" Bottom="167" />
+										<TypeInfo Item0="{58F5A48C-108B-4A5F-A080-A4C4E66D35AF}" />
+										<Selectors>
+											<Selector>
+												<Value Value="a[href*=&apos;davies-group.com/solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[text()=&apos;Solutions&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#menu-hero-header-menu &gt; .menu-item-18257 &gt; a" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul[@id=&apos;menu-hero-header-menu&apos;]/li/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;davies-group.com/solutions&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupTwitter" Key="{9E05D819-E49F-4407-87B0-41906DD82164}">
+								<Image FileName="-1445582422" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://twitter.com/Davies_Group" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panel" Key="{79782ACF-A70A-4932-B2F9-339F9A61DDC5}" ExtendedFind="True">
+										<Image FileName="-1445582422" Left="602" Top="111" Right="1202" Bottom="10720" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="dataset.testid">
+												<Value Value="primaryColumn" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{90F4055C-8EB6-49BE-ABF2-55D7C3663C41}">
+												<Image FileName="-1445582422" Left="603" Top="111" Right="1201" Bottom="10720" />
+												<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{BB1EDFD6-DFA7-44AB-9D23-9C30FBD7814C}">
+														<Image FileName="-1445582422" Left="603" Top="111" Right="1201" Bottom="165" />
+														<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{247A9012-6C7A-4AE6-AB15-E71E5E109FA0}">
+																<Image FileName="-1445582422" Left="603" Top="111" Right="1201" Bottom="164" />
+																<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panel" Key="{37472775-999F-4390-B06F-532E8448228C}" ExtendedFind="True">
+																		<Image FileName="-1445582422" Left="683" Top="111" Right="1133" Bottom="164" />
+																		<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value Value="Panel" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{EE51DACE-7349-4BBC-9AEE-AFDFB1B87343}">
+																				<Image FileName="-1445582422" Left="683" Top="116" Right="1133" Bottom="159" />
+																				<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value Value="Panel" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="0" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panel" Key="{A360EE4D-9C83-4F27-9B14-EF10D59E23D8}">
+																						<Image FileName="-1445582422" Left="683" Top="116" Right="808" Bottom="140" />
+																						<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value Value="Panel" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{FB5DF3A2-1CB4-4D10-8E55-A9CB08F7C0D3}">
+																								<Image FileName="-1445582422" Left="683" Top="116" Right="808" Bottom="140" />
+																								<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value Value="Panel" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panel" Key="{37EAC50E-E04F-48E5-BC11-98627DE0F2A7}">
+																										<Image FileName="-1445582422" Left="683" Top="116" Right="808" Bottom="140" />
+																										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value Value="Panel" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="textnode" Key="{0AFB7F5F-0030-4A68-9DA2-AF1E5B149710}">
+																												<Image FileName="-1445582422" Left="683" Top="115" Right="808" Bottom="141" />
+																												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value Value="TextNode" />
+																													</Property>
+																													<Property Name="contentText">
+																														<Value Value="Davies Group" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupLinkedin" Key="{A65ABA55-CA5C-49B7-980B-9039D64FD037}">
+								<Image FileName="255429158" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.linkedin.com/company/daviesgroup/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="section" Key="{C13E7704-A85D-4B6A-8CFE-6EE81011D32E}">
+										<Image FileName="255429158" Left="396" Top="259" Right="1186" Bottom="4561" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="section" Key="{FE526F43-0316-4C0B-87DD-743924A9AE2C}">
+												<Image FileName="255429158" Left="396" Top="259" Right="1186" Bottom="694" />
+												<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Section" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="textnode" Key="{82D48101-1D3C-42BE-B5DC-75DCAA32D118}" ExtendedFind="True">
+														<Image FileName="255429158" Left="420" Top="527" Right="850" Bottom="558" />
+														<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="TextNode" />
+															</Property>
+															<Property Name="contentText">
+																<Value Value="Davies Group" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="link" Key="{F1EF81AD-FB1F-415D-A1E9-349A9D30C389}" ExtendedFind="True">
+												<Image FileName="-731713957" Left="420" Top="758" Right="528" Bottom="798" />
+												<TypeInfo Item0="{58F5A48C-108B-4A5F-A080-A4C4E66D35AF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="See jobs" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupSolutions" Key="{47CB00ED-37F2-4957-8006-CC87CA09A599}">
+								<Image FileName="-430019170" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/solutions/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="section" Key="{E5481383-1227-4150-A193-20161BAA848D}" ExtendedFind="True">
+										<Image FileName="-430019170" Left="8" Top="111" Right="1911" Bottom="1048" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textSolutions" Key="{6EE342B2-1C74-40DF-82B6-C4C79C400D88}" ExtendedFind="True">
+												<Image FileName="-430019170" Left="360" Top="392" Right="1140" Bottom="452" />
+												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Our Solutions" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textnodeSelect2Container" Key="{20961B55-388E-4E8C-9047-F2C726B93E11}" ExtendedFind="True">
+												<Image FileName="1102843062" Left="573" Top="442" Right="1371" Bottom="470" />
+												<TypeInfo Item0="{F7258329-541B-4D96-8BD7-7B5A6146E6DF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="idStr">
+														<Value Value="select2--container" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="section2" Key="{D895C7B9-7F42-4C5D-A65E-7C3CFE5A9F15}" ExtendedFind="True">
+										<Image FileName="-1952529042" Left="0" Top="-92" Right="1903" Bottom="735" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnode" Key="{2EB5773D-BB4D-4675-B053-596E8A02567D}" ExtendedFind="True">
+												<Image FileName="-1952529042" Left="885" Top="599" Right="1047" Bottom="639" />
+												<TypeInfo Item0="{F7258329-541B-4D96-8BD7-7B5A6146E6DF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="View All" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="searchbox" Key="{0D86035E-63C4-4F3D-A68A-62F25E38F17E}">
+										<Image FileName="-788456968" Left="537" Top="485" Right="1367" Bottom="528" />
+										<TypeInfo Item0="{F9082937-2585-4640-8C41-0E2887F62322}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="SearchBox" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupCaseStudy" Key="{99F32788-F2F5-41D9-B12C-5000060305FE}">
+								<Image FileName="-2047887286" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/case-study/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="section" Key="{08AAFB79-B616-4F24-A3CD-D09F05A1A0AE}" ExtendedFind="True">
+										<Image FileName="-2047887286" Left="8" Top="111" Right="1911" Bottom="3133" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnode" Key="{F0CF530B-F89D-4DD0-AF47-158314EB8F57}" ExtendedFind="True">
+												<Image FileName="-2047887286" Left="553" Top="329" Right="1366" Bottom="411" />
+												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="How we’ve helped our clients" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="textnodeSelect2Container" Key="{1DCEC4D8-3390-44AA-B111-F0A22686B53D}" ExtendedFind="True">
+												<Image FileName="-2047887286" Left="581" Top="450" Right="1379" Bottom="478" />
+												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="idStr">
+														<Value Value="select2--container" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="textnodeSelect2Result5x6pFireInv" Key="{CDFE6F7E-1FF6-4F24-9160-84257219DD92}">
+										<Image FileName="-1234047173" Left="541" Top="540" Right="1379" Bottom="578" />
+										<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="TextNode" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="select2--result-5x6p-Fire_investigation " />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="searchbox" Key="{0C281078-7E9F-4CA7-80D0-E02C6A57F821}">
+										<Image FileName="1607428684" Left="537" Top="485" Right="1367" Bottom="528" />
+										<TypeInfo Item0="{F9082937-2585-4640-8C41-0E2887F62322}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="SearchBox" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupCaseStudyFire" Key="{CE5D03F2-B2C0-4D79-8981-39C8EE29C9C4}">
+								<Image FileName="-1648375838" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{879F6A2B-4130-4654-8F9B-3D4D399B2E03}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/case-study/fire-investigation/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="section" Key="{D10590B9-0CB7-459F-BEB3-2A7A4B6E8C9D}" ExtendedFind="True">
+										<Image FileName="-1648375838" Left="8" Top="111" Right="1911" Bottom="1017" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnode" Key="{1F6E7461-0DDA-4C70-96A0-0125A4F53502}" ExtendedFind="True">
+												<Image FileName="-1648375838" Left="480" Top="421" Right="1440" Bottom="491" />
+												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Fire investigation" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="section2" Key="{6CBE8FB5-722B-4B6D-B1CF-BDBA7FEFAC87}" ExtendedFind="True">
+										<Image FileName="1360609492" Left="8" Top="217" Right="1911" Bottom="713" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnode" Key="{80C0B1F4-557F-49D0-AE10-DE50CD74D2B0}" ExtendedFind="True">
+												<Image FileName="1360609492" Left="420" Top="472" Right="1500" Bottom="498" />
+												<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="TextNode" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="The dealership accepted fault and with an outlay to us of £1,495 made a recovery of £46,353." />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageDaviesGroupAboutUs" Key="{5AC08228-AFE8-4F0B-959C-421F6AA91ECF}">
+								<Image FileName="2028132347" Left="0" Top="103" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/about-us/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerHeaderWrap" Key="{1FDF7F01-46CA-43A3-8906-DB60C3EC7B60}" ExtendedFind="True">
+										<Image FileName="2028132347" Left="0" Top="103" Right="1903" Bottom="174" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Header" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="header-wrap" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="link" Key="{23D4A3E9-D600-4934-BE9A-D49A65B3C668}" ExtendedFind="True">
+												<Image FileName="650480781" Left="917" Top="329" Right="986" Bottom="352" />
+												<TypeInfo Item0="{F7258329-541B-4D96-8BD7-7B5A6146E6DF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Locations" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{C48929AA-F8F1-4884-A125-C361A053AC6D}">
+								<TypeInfo Item0="{A8296288-4B04-46E7-8302-ADD89B09B72F}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageDaviesGroupLocation" Key="{68CFA48C-BF2E-4068-BA1B-E0E713CA9F1F}">
+								<Image FileName="1711683139" Left="0" Top="103" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://davies-group.com/location/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelMarker011" Key="{C71D14DE-EB29-4F69-90AD-E628AD27D80E}" ExtendedFind="True">
+										<Image FileName="1711683139" Left="837" Top="635" Right="855" Bottom="653" />
+										<TypeInfo Item0="{F7258329-541B-4D96-8BD7-7B5A6146E6DF}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="marker0_11" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="section" Key="{3C60DCCB-65E9-4703-BE9B-14B11082100C}" ExtendedFind="True">
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Section" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="sectionSvgcontainer0" Key="{D0CE8B89-224D-45A5-9EA6-86563A0DBBCD}">
+										<Image FileName="1300458968" Left="8" Top="323" Right="1911" Bottom="1388" />
+										<TypeInfo Item0="{81144E3C-149A-488B-9B12-0FBE945A80CC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#svgContainer0" />
+											</Selector>
+											<Selector>
+												<Value Value="(//section[contains(.,&apos;UK &amp; Ireland&apos;)])[3]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[@id=&apos;svgContainer0&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;panel0&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[2]/div/div/section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode" Key="{3B353A50-52CE-4E83-B41F-C5171C6CD7A9}">
+										<Image FileName="1300458968" Left="1399" Top="543" Right="1852" Bottom="568" />
+										<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h3[text()=&apos;VRG&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#desc0_39 &gt; h3" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[@id=&apos;desc0_39&apos;]/h3" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[40]/h3" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{2D3C4DAE-653E-40EB-8734-22B9B950E9E0}">
+										<Image FileName="-670220" Left="1399" Top="553" Right="1852" Bottom="605" />
+										<TypeInfo Item0="{91BB9550-7F7D-46A9-A1F7-C0CB2FFDF47B}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#desc0_11 &gt; p" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[@id=&apos;desc0_11&apos;]/p" />
+											</Selector>
+											<Selector>
+												<Value Value="//li[12]/p" />
+											</Selector>
+											<Selector>
+												<Value Value="//p[contains(.,&apos;3rd and 4th Floors, No.2 Smithfields, Stoke-on-Trent ST1 3DH, UK.&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{73E43C10-DED3-4CCB-9152-FD1168CBADD8}">
+			<Child Name="pageDaviesGroupHome" Owner="{134655FC-8884-4392-98A7-4C7DB50D2490}">
+				<Child Name="footer" Owner="{278463E4-4C60-4DA4-9602-79D63E0AFCC1}">
+					<Child Name="twitterLink" Owner="{1AFCAB9E-96A8-4904-B124-3D818F6CEC79}">
+						<Child Name="vg" Owner="{23AB4F4E-2EAB-4CD9-8CC0-A1F407900583}" />
+					</Child>
+					<Child Name="linkedInLink" Owner="{F1F2F36A-BCE5-4D4D-908C-1D1D4E0577BD}">
+						<Child Name="vg" Owner="{F46B4AC3-828E-4CBE-8BAC-7F6EEBD94432}" />
+					</Child>
+				</Child>
+				<Child Name="section" Owner="{CB78A80A-FEA4-4DDF-9DDC-B75704DE6101}" />
+				<Child Name="header" Owner="{E21FB192-C8E6-4133-88EE-585BA789801E}">
+					<Child Name="navMainMenu" Owner="{B91C4872-C152-4B69-B2D9-FD139341585B}">
+						<Child Name="linkAbout" Owner="{3A2D2ACB-30F3-4393-AF69-4AFB6674FBAC}" />
+						<Child Name="linkSolutions" Owner="{A7C1B31E-7130-40AD-85B4-210A5F3BE6DE}" />
+					</Child>
+					<Child Name="headerSubMenuAbout" Owner="{B2B9FC15-8B4A-42F7-BF7D-8E47BF87EBC3}">
+						<Child Name="headerSubMenuAbout1" Owner="{0829FF60-A82D-48FA-9D7A-3F8D763906B9}">
+							<Child Name="linkLocations" Owner="{7BCEC0E4-3FB0-4827-9FC3-CC103C3B3BBD}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageDaviesGroupTwitter" Owner="{9E05D819-E49F-4407-87B0-41906DD82164}">
+				<Child Name="textnode" Owner="{0AFB7F5F-0030-4A68-9DA2-AF1E5B149710}" />
+			</Child>
+			<Child Name="pageDaviesGroupLinkedin" Owner="{A65ABA55-CA5C-49B7-980B-9039D64FD037}">
+				<Child Name="section" Owner="{C13E7704-A85D-4B6A-8CFE-6EE81011D32E}">
+					<Child Name="section" Owner="{FE526F43-0316-4C0B-87DD-743924A9AE2C}">
+						<Child Name="textnode" Owner="{82D48101-1D3C-42BE-B5DC-75DCAA32D118}" />
+					</Child>
+					<Child Name="link" Owner="{F1EF81AD-FB1F-415D-A1E9-349A9D30C389}" />
+				</Child>
+			</Child>
+			<Child Name="pageDaviesGroupSolutions" Owner="{47CB00ED-37F2-4957-8006-CC87CA09A599}">
+				<Child Name="section" Owner="{E5481383-1227-4150-A193-20161BAA848D}">
+					<Child Name="textSolutions" Owner="{6EE342B2-1C74-40DF-82B6-C4C79C400D88}" />
+					<Child Name="textnodeSelect2Container" Owner="{20961B55-388E-4E8C-9047-F2C726B93E11}" />
+				</Child>
+				<Child Name="section2" Owner="{D895C7B9-7F42-4C5D-A65E-7C3CFE5A9F15}">
+					<Child Name="textnode" Owner="{2EB5773D-BB4D-4675-B053-596E8A02567D}" />
+				</Child>
+				<Child Name="searchbox" Owner="{0D86035E-63C4-4F3D-A68A-62F25E38F17E}" />
+			</Child>
+			<Child Name="pageDaviesGroupCaseStudy" Owner="{99F32788-F2F5-41D9-B12C-5000060305FE}">
+				<Child Name="section" Owner="{08AAFB79-B616-4F24-A3CD-D09F05A1A0AE}">
+					<Child Name="textnode" Owner="{F0CF530B-F89D-4DD0-AF47-158314EB8F57}" />
+					<Child Name="textnodeSelect2Container" Owner="{1DCEC4D8-3390-44AA-B111-F0A22686B53D}" />
+				</Child>
+				<Child Name="textnodeSelect2Result5x6pFireInv" Owner="{CDFE6F7E-1FF6-4F24-9160-84257219DD92}" />
+				<Child Name="searchbox" Owner="{0C281078-7E9F-4CA7-80D0-E02C6A57F821}" />
+			</Child>
+			<Child Name="pageDaviesGroupCaseStudyFire" Owner="{CE5D03F2-B2C0-4D79-8981-39C8EE29C9C4}">
+				<Child Name="section" Owner="{D10590B9-0CB7-459F-BEB3-2A7A4B6E8C9D}">
+					<Child Name="textnode" Owner="{1F6E7461-0DDA-4C70-96A0-0125A4F53502}" />
+				</Child>
+				<Child Name="section2" Owner="{6CBE8FB5-722B-4B6D-B1CF-BDBA7FEFAC87}">
+					<Child Name="textnode" Owner="{80C0B1F4-557F-49D0-AE10-DE50CD74D2B0}" />
+				</Child>
+			</Child>
+			<Child Name="pageDaviesGroupAboutUs" Owner="{5AC08228-AFE8-4F0B-959C-421F6AA91ECF}">
+				<Child Name="headerHeaderWrap" Owner="{1FDF7F01-46CA-43A3-8906-DB60C3EC7B60}">
+					<Child Name="link" Owner="{23D4A3E9-D600-4934-BE9A-D49A65B3C668}" />
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{C48929AA-F8F1-4884-A125-C361A053AC6D}" />
+			<Child Name="pageDaviesGroupLocation" Owner="{68CFA48C-BF2E-4068-BA1B-E0E713CA9F1F}">
+				<Child Name="panelMarker011" Owner="{C71D14DE-EB29-4F69-90AD-E628AD27D80E}" />
+				<Child Name="section" Owner="{3C60DCCB-65E9-4703-BE9B-14B11082100C}">
+					<Child Name="sectionSvgcontainer0" Owner="{D0CE8B89-224D-45A5-9EA6-86563A0DBBCD}">
+						<Child Name="textnode" Owner="{3B353A50-52CE-4E83-B41F-C5171C6CD7A9}" />
+						<Child Name="textnode2" Owner="{2D3C4DAE-653E-40EB-8734-22B9B950E9E0}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
